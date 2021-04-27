@@ -6,5 +6,6 @@ function hellooo(name) {
 }
 hellooo("Nina")
 
+
 const c = "change"
-console.log (c)
+console.log(c)
