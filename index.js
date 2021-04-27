@@ -25,3 +25,9 @@ for (let i=0; i<20; i++){
 let b = 60
 let c = 80
 console.log(b+c)
+
+let d = 50
+let e = 800
+console.log(d+e)
+
+console.log("end of changes")
