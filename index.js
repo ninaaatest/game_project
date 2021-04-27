@@ -18,3 +18,6 @@ for (i in newArray){
 }
 
 console.log(newArray.length)
+for (let i=0; i<20; i++){
+    console.log("This is "+ i)
+}
