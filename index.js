@@ -1,8 +1,7 @@
-const hello =" hi"
+const hello ="hi"
 console.log(hello)
 
-
-const bye = () =>{
-    console.log("bye")
+function hellooo(name) {
+    console.log ('hello'+" "+ name)
 }
-bye()
+hellooo("Nina")
