@@ -6,6 +6,11 @@ function hellooo(name) {
 }
 hellooo("Nina")
 
+function bye(){
+    console.log("bye")
+}
+bye()
 
-const c = "change"
-console.log(c)
+for (let i=0; i<20; i++){
+    console.log("This is "+ i)
+}
