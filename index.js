@@ -26,4 +26,10 @@ let b = 60
 let c = 80
 console.log(b+c)
 
-console.log("this is another change from main")
+let d = 50
+let e = 800
+console.log(d+e)
+
+console.log("end of changes")
+
+console.log("this is another change")
